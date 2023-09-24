@@ -1,0 +1,116 @@
+{"frames": {
+
+"button 1.png":
+{
+	"frame": {"x":246,"y":0,"w":180,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":64},
+	"sourceSize": {"w":180,"h":64}
+},
+"button 2.png":
+{
+	"frame": {"x":426,"y":0,"w":180,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":64},
+	"sourceSize": {"w":180,"h":64}
+},
+"crate.png":
+{
+	"frame": {"x":606,"y":0,"w":256,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
+"display 2.png":
+{
+	"frame": {"x":0,"y":256,"w":401,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":401,"h":58},
+	"sourceSize": {"w":401,"h":58}
+},
+"display 3.png":
+{
+	"frame": {"x":401,"y":256,"w":401,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":401,"h":58},
+	"sourceSize": {"w":401,"h":58}
+},
+"display.png":
+{
+	"frame": {"x":0,"y":314,"w":401,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":401,"h":58},
+	"sourceSize": {"w":401,"h":58}
+},
+"drop off.png":
+{
+	"frame": {"x":22,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"robot 1.png":
+{
+	"frame": {"x":0,"y":0,"w":22,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":22},
+	"sourceSize": {"w":22,"h":22}
+},
+"robot box.png":
+{
+	"frame": {"x":118,"y":0,"w":64,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":109},
+	"sourceSize": {"w":64,"h":109}
+},
+"robot.png":
+{
+	"frame": {"x":182,"y":0,"w":64,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":62},
+	"sourceSize": {"w":64,"h":62}
+},
+"slider ball.png":
+{
+	"frame": {"x":54,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"slider bar.png":
+{
+	"frame": {"x":401,"y":314,"w":600,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":32},
+	"sourceSize": {"w":600,"h":32}
+},
+"wall.png":
+{
+	"frame": {"x":86,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Q-learning spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1001,"h":372},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d245f69f6f1fa9c582cff5515adbf813:0366b6c89537b6a55442a94114c2b978:68c4f97e9b06f2ff457d66311edc10a8$"
+}
+}
